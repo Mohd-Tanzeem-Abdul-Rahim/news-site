@@ -1,0 +1,13 @@
+#carouselImg{
+    height: 350px;
+}
+.card-body{
+    height: 530px;
+}
+.card-body .d-flex{
+    position: absolute;
+    bottom: 10px;
+}
+.carousel-item h3 {
+    color: black;
+}
